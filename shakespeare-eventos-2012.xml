@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <0>
-        <ID_EVENT>1</ID_EVENT>
+    <EVENT ID="1">
         <ID_PLAY>16</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -82,9 +81,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 22:19:22</CREATED_TS>
         <UPDATED_TS>2012-02-08 19:38:47</UPDATED_TS>
-    </0>
-    <1>
-        <ID_EVENT>2</ID_EVENT>
+    </EVENT>
+    <EVENT ID="2">
         <ID_PLAY>10</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -106,9 +104,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 22:24:38</CREATED_TS>
         <UPDATED_TS>2012-02-09 13:03:02</UPDATED_TS>
-    </1>
-    <2>
-        <ID_EVENT>3</ID_EVENT>
+    </EVENT>
+    <EVENT ID="3">
         <ID_PLAY>14</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -148,9 +145,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 22:53:12</CREATED_TS>
         <UPDATED_TS>2012-02-10 02:31:22</UPDATED_TS>
-    </2>
-    <3>
-        <ID_EVENT>4</ID_EVENT>
+    </EVENT>
+    <EVENT ID="4">
         <ID_PLAY>10</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -172,9 +168,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 23:01:19</CREATED_TS>
         <UPDATED_TS>2012-02-09 14:16:07</UPDATED_TS>
-    </3>
-    <4>
-        <ID_EVENT>5</ID_EVENT>
+    </EVENT>
+    <EVENT ID="5">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -234,9 +229,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 23:03:27</CREATED_TS>
         <UPDATED_TS>2012-02-07 20:11:32</UPDATED_TS>
-    </4>
-    <5>
-        <ID_EVENT>6</ID_EVENT>
+    </EVENT>
+    <EVENT ID="6">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -280,9 +274,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 15:34:02</CREATED_TS>
         <UPDATED_TS>2012-02-07 20:10:18</UPDATED_TS>
-    </5>
-    <6>
-        <ID_EVENT>7</ID_EVENT>
+    </EVENT>
+    <EVENT ID="7">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -332,9 +325,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 15:42:17</CREATED_TS>
         <UPDATED_TS>2012-02-07 20:09:50</UPDATED_TS>
-    </6>
-    <7>
-        <ID_EVENT>8</ID_EVENT>
+    </EVENT>
+    <EVENT ID="8">
         <ID_PLAY>4</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -356,9 +348,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 15:46:11</CREATED_TS>
         <UPDATED_TS>2012-02-09 12:59:29</UPDATED_TS>
-    </7>
-    <8>
-        <ID_EVENT>9</ID_EVENT>
+    </EVENT>
+    <EVENT ID="9">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -446,12 +437,11 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 15:48:40</CREATED_TS>
         <UPDATED_TS>2012-02-07 20:11:31</UPDATED_TS>
-    </8>
-    <9>
-        <ID_EVENT>10</ID_EVENT>
+    </EVENT>
+    <EVENT ID="10">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
-        <ID_PLAY3>NULL</ID_PLAY3>
+        <ID_PLAY3>NULL</ID_PLAY3>
         <ID_ACTIVITY>1</ID_ACTIVITY>
         <ID_PLACE>1</ID_PLACE>
         <TITLE>Taller intensivo de técnica para monólogos shakespeareanos, por Mónica Maffia</TITLE>
@@ -480,9 +470,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 15:57:15</CREATED_TS>
         <UPDATED_TS>2012-02-07 20:14:42</UPDATED_TS>
-    </9>
-    <10>
-        <ID_EVENT>11</ID_EVENT>
+    </EVENT>
+    <EVENT ID="11">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -529,9 +518,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 15:59:44</CREATED_TS>
         <UPDATED_TS>2012-02-07 18:51:19</UPDATED_TS>
-    </10>
-    <11>
-        <ID_EVENT>12</ID_EVENT>
+    </EVENT>
+    <EVENT ID="12">
         <ID_PLAY>4</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -553,9 +541,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 16:06:46</CREATED_TS>
         <UPDATED_TS>2012-02-09 12:59:03</UPDATED_TS>
-    </11>
-    <12>
-        <ID_EVENT>13</ID_EVENT>
+    </EVENT>
+    <EVENT ID="13">
         <ID_PLAY>15</ID_PLAY>
         <ID_PLAY2>NULL</ID_PLAY2>
         <ID_PLAY3>NULL</ID_PLAY3>
@@ -577,9 +564,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 16:10:07</CREATED_TS>
         <UPDATED_TS>2012-02-07 18:50:04</UPDATED_TS>
-    </12>
-    <13>
-        <ID_EVENT>14</ID_EVENT>
+    </EVENT>
+    <EVENT ID="14">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>0</ID_PLAY2>
         <ID_PLAY3>0</ID_PLAY3>
@@ -643,9 +629,8 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-07 16:12:27</CREATED_TS>
         <UPDATED_TS>2012-02-15 17:18:26</UPDATED_TS>
-    </13>
-    <14>
-        <ID_EVENT>15</ID_EVENT>
+    </EVENT>
+    <EVENT ID="15">
         <ID_PLAY>0</ID_PLAY>
         <ID_PLAY2>0</ID_PLAY2>
         <ID_PLAY3>0</ID_PLAY3>
@@ -674,8 +659,8 @@
                         <PUBLISHED>1</PUBLISHED>
                         <CREATED_TS>2012-02-07 16:13:32</CREATED_TS>
                         <UPDATED_TS>2012-02-15 19:49:39</UPDATED_TS>
-                    </14>
-                    <15>
+                    </EVENT>
+                    <EVENT ID="16">
                         <ID_EVENT>16</ID_EVENT>
                         <ID_PLAY>1</ID_PLAY>
                         <ID_PLAY2>NULL</ID_PLAY2>
@@ -698,9 +683,8 @@
                         <PUBLISHED>1</PUBLISHED>
                         <CREATED_TS>2012-02-07 16:15:05</CREATED_TS>
                         <UPDATED_TS>2012-02-09 18:35:25</UPDATED_TS>
-                    </15>
-                    <16>
-                        <ID_EVENT>17</ID_EVENT>
+                    </EVENT>
+                    <EVENT ID="17">
                         <ID_PLAY>0</ID_PLAY>
                         <ID_PLAY2>0</ID_PLAY2>
                         <ID_PLAY3>0</ID_PLAY3>
@@ -770,9 +754,8 @@
                                         <PUBLISHED>1</PUBLISHED>
                                         <CREATED_TS>2012-02-07 16:20:19</CREATED_TS>
                                         <UPDATED_TS>2012-02-15 17:21:25</UPDATED_TS>
-                                    </16>
-                                    <17>
-                                        <ID_EVENT>18</ID_EVENT>
+                                    </EVENT>
+                                    <EVENT ID="18">
                                         <ID_PLAY>0</ID_PLAY>
                                         <ID_PLAY2>0</ID_PLAY2>
                                         <ID_PLAY3>0</ID_PLAY3>
@@ -801,9 +784,8 @@
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <CREATED_TS>2012-02-07 16:22:10</CREATED_TS>
                                                         <UPDATED_TS>2012-02-15 17:23:26</UPDATED_TS>
-                                                    </17>
-                                                    <18>
-                                                        <ID_EVENT>19</ID_EVENT>
+                                                    </EVENT>
+                                                    <EVENT ID="19">
                                                         <ID_PLAY>1</ID_PLAY>
                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -825,9 +807,8 @@
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <CREATED_TS>2012-02-07 16:23:14</CREATED_TS>
                                                         <UPDATED_TS>2012-02-09 18:35:29</UPDATED_TS>
-                                                    </18>
-                                                    <19>
-                                                        <ID_EVENT>20</ID_EVENT>
+                                                    </EVENT>
+                                                    <EVENT ID="20">
                                                         <ID_PLAY>5</ID_PLAY>
                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -849,9 +830,8 @@
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <CREATED_TS>2012-02-07 16:24:36</CREATED_TS>
                                                         <UPDATED_TS>2012-02-09 12:58:44</UPDATED_TS>
-                                                    </19>
-                                                    <20>
-                                                        <ID_EVENT>21</ID_EVENT>
+                                                    </EVENT>
+                                                    <EVENT ID="21">
                                                         <ID_PLAY>6</ID_PLAY>
                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -873,9 +853,8 @@
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <CREATED_TS>2012-02-07 16:25:11</CREATED_TS>
                                                         <UPDATED_TS>2012-02-09 16:11:37</UPDATED_TS>
-                                                    </20>
-                                                    <21>
-                                                        <ID_EVENT>22</ID_EVENT>
+                                                    </EVENT>
+                                                    <EVENT ID="22">
                                                         <ID_PLAY>0</ID_PLAY>
                                                         <ID_PLAY2>0</ID_PLAY2>
                                                         <ID_PLAY3>0</ID_PLAY3>
@@ -945,9 +924,8 @@
                                                                         <PUBLISHED>1</PUBLISHED>
                                                                         <CREATED_TS>2012-02-07 16:27:51</CREATED_TS>
                                                                         <UPDATED_TS>2012-02-15 17:24:22</UPDATED_TS>
-                                                                    </21>
-                                                                    <22>
-                                                                        <ID_EVENT>23</ID_EVENT>
+                                                                    </EVENT>
+                                                                    <EVENT ID="23">
                                                                         <ID_PLAY>0</ID_PLAY>
                                                                         <ID_PLAY2>0</ID_PLAY2>
                                                                         <ID_PLAY3>0</ID_PLAY3>
@@ -984,9 +962,8 @@
                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                         <CREATED_TS>2012-02-07 16:29:00</CREATED_TS>
                                                                                         <UPDATED_TS>2012-02-15 17:25:02</UPDATED_TS>
-                                                                                    </22>
-                                                                                    <23>
-                                                                                        <ID_EVENT>24</ID_EVENT>
+                                                                                    </EVENT>
+                                                                                    <EVENT ID="24">
                                                                                         <ID_PLAY>1</ID_PLAY>
                                                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -1008,9 +985,8 @@
                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                         <CREATED_TS>2012-02-07 16:29:40</CREATED_TS>
                                                                                         <UPDATED_TS>2012-02-09 17:38:54</UPDATED_TS>
-                                                                                    </23>
-                                                                                    <24>
-                                                                                        <ID_EVENT>25</ID_EVENT>
+                                                                                    </EVENT>
+                                                                                    <EVENT ID="25">
                                                                                         <ID_PLAY>5</ID_PLAY>
                                                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -1032,9 +1008,8 @@
                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                         <CREATED_TS>2012-02-07 16:31:32</CREATED_TS>
                                                                                         <UPDATED_TS>2012-02-09 12:59:41</UPDATED_TS>
-                                                                                    </24>
-                                                                                    <25>
-                                                                                        <ID_EVENT>26</ID_EVENT>
+                                                                                    </EVENT>
+                                                                                    <EVENT ID="26">
                                                                                         <ID_PLAY>6</ID_PLAY>
                                                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -1056,9 +1031,8 @@
                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                         <CREATED_TS>2012-02-07 16:34:10</CREATED_TS>
                                                                                         <UPDATED_TS>2012-02-09 16:11:41</UPDATED_TS>
-                                                                                    </25>
-                                                                                    <26>
-                                                                                        <ID_EVENT>27</ID_EVENT>
+                                                                                    </EVENT>
+                                                                                    <EVENT ID="27">
                                                                                         <ID_PLAY>9</ID_PLAY>
                                                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -1080,9 +1054,8 @@
                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                         <CREATED_TS>2012-02-07 16:34:41</CREATED_TS>
                                                                                         <UPDATED_TS>2012-02-09 12:59:17</UPDATED_TS>
-                                                                                    </26>
-                                                                                    <27>
-                                                                                        <ID_EVENT>28</ID_EVENT>
+                                                                                    </EVENT>
+                                                                                    <EVENT ID="28">
                                                                                         <ID_PLAY>0</ID_PLAY>
                                                                                         <ID_PLAY2>0</ID_PLAY2>
                                                                                         <ID_PLAY3>0</ID_PLAY3>
@@ -1119,9 +1092,8 @@
                                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                                         <CREATED_TS>2012-02-07 16:36:55</CREATED_TS>
                                                                                                         <UPDATED_TS>2012-02-15 17:26:50</UPDATED_TS>
-                                                                                                    </27>
-                                                                                                    <28>
-                                                                                                        <ID_EVENT>29</ID_EVENT>
+                                                                                                    </EVENT>
+                                                                                                    <EVENT ID="29">
                                                                                                         <ID_PLAY>1</ID_PLAY>
                                                                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -1143,9 +1115,8 @@
                                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                                         <CREATED_TS>2012-02-07 16:38:25</CREATED_TS>
                                                                                                         <UPDATED_TS>2012-02-09 17:39:30</UPDATED_TS>
-                                                                                                    </28>
-                                                                                                    <29>
-                                                                                                        <ID_EVENT>30</ID_EVENT>
+                                                                                                    </EVENT>
+                                                                                                    <EVENT ID="30">
                                                                                                         <ID_PLAY>9</ID_PLAY>
                                                                                                         <ID_PLAY2>NULL</ID_PLAY2>
                                                                                                         <ID_PLAY3>NULL</ID_PLAY3>
@@ -1167,9 +1138,10 @@
                                                                                                         <PUBLISHED>1</PUBLISHED>
                                                                                                         <CREATED_TS>2012-02-07 16:40:10</CREATED_TS>
                                                                                                         <UPDATED_TS>2012-02-09 12:59:25</UPDATED_TS>
-                                                                                                    </29>
+						                                                                                    </EVENT>
+
                                                                                                     <EVENT ID="31">
-                                                                                                        <ID_PLAY>11</ID_PLAY>
+                                                																											  <ID_PLAY>11</ID_PLAY>
                                                                                                         <ID_PLAY2>0</ID_PLAY2>
                                                                                                         <ID_PLAY3>0</ID_PLAY3>
                                                                                                         <ID_ACTIVITY>6</ID_ACTIVITY>

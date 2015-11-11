@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <0>
-        <ID_PLAY>1</ID_PLAY>
+    <PLAY ID="1">
         <ID_SECTION>NULL</ID_SECTION>
         <TITLE>A Lover’s Complaint</TITLE>
         <TITLE_ES>A Lover’s Complaint</TITLE_ES>
@@ -26,9 +25,8 @@
                 <FILEPIC1>4f302f7a86507_1</FILEPIC1>
                 <PUBLISHED>1</PUBLISHED>
                 <UPDATED_TS>2012-02-06 21:29:00</UPDATED_TS>
-            </0>
-            <1>
-                <ID_PLAY>2</ID_PLAY>
+            </PLAY>
+            <PLAY ID="2">
                 <ID_SECTION>NULL</ID_SECTION>
                 <TITLE>Amleto Avvisato Mezzo Salvato</TITLE>
                 <TITLE_ES></TITLE_ES>
@@ -53,9 +51,8 @@
                         <FILEPIC1>4f3030b8715a7_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-06 21:31:17</UPDATED_TS>
-                    </1>
-                    <2>
-                        <ID_PLAY>3</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="3">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>De Colección</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -74,9 +71,8 @@
                         <FILEPIC1>4f303169f209f_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-06 20:00:41</UPDATED_TS>
-                    </2>
-                    <3>
-                        <ID_PLAY>4</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="4">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>HxH, Hamlet por Hamlet</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -95,9 +91,8 @@
                         <FILEPIC1>4f303420276a8_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:53:20</UPDATED_TS>
-                    </3>
-                    <4>
-                        <ID_PLAY>5</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="5">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Hamlet, la metamorfosis</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -116,9 +111,8 @@
                         <FILEPIC1>4f3036c941203_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:52:05</UPDATED_TS>
-                    </4>
-                    <5>
-                        <ID_PLAY>6</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="6">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Lope de Vega y Shakespeare: Renacimiento barroco</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -137,9 +131,8 @@
                         <FILEPIC1>4f30375b41b09_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:53:42</UPDATED_TS>
-                    </5>
-                    <6>
-                        <ID_PLAY>7</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="7">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Los bailarines de Arda</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -158,9 +151,8 @@
                         <FILEPIC1>4f303838a28cc_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:53:23</UPDATED_TS>
-                    </6>
-                    <7>
-                        <ID_PLAY>8</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="8">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Macbeth</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -179,9 +171,8 @@
                         <FILEPIC1>4f32dbc137f58_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:54:57</UPDATED_TS>
-                    </7>
-                    <8>
-                        <ID_PLAY>9</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="9">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Macbeth, asesino del sueño</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -200,9 +191,8 @@
                         <FILEPIC1>4f3036260feeb_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:54:53</UPDATED_TS>
-                    </8>
-                    <9>
-                        <ID_PLAY>10</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="10">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Mantua</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -221,9 +211,8 @@
                         <FILEPIC1>4f316bfdb8f0d_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-07 18:22:53</UPDATED_TS>
-                    </9>
-                    <10>
-                        <ID_PLAY>11</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="11">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Romeo y Julieta: Celebración del amor. (Ópera)</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -242,9 +231,8 @@
                         <FILEPIC1>4f30381a5eaa4_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-16 17:51:10</UPDATED_TS>
-                    </10>
-                    <11>
-                        <ID_PLAY>12</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="12">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Shakespir Show</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -263,9 +251,8 @@
                         <FILEPIC1>4f303c4705de3_1</FILEPIC1>
                         <PUBLISHED>1</PUBLISHED>
                         <UPDATED_TS>2012-02-09 19:55:01</UPDATED_TS>
-                    </11>
-                    <12>
-                        <ID_PLAY>13</ID_PLAY>
+                    </PLAY>
+                    <PLAY ID="13">
                         <ID_SECTION>NULL</ID_SECTION>
                         <TITLE>Aldea Medieval</TITLE>
                         <TITLE_ES></TITLE_ES>
@@ -294,9 +281,8 @@
                                                         <FILEPIC1>4f303d0a3a119_1</FILEPIC1>
                                                         <PUBLISHED>0</PUBLISHED>
                                                         <UPDATED_TS>2012-02-06 22:12:32</UPDATED_TS>
-                                                    </12>
-                                                    <13>
-                                                        <ID_PLAY>14</ID_PLAY>
+                                                    </PLAY>
+                                                    <PLAY ID="14">
                                                         <ID_SECTION>NULL</ID_SECTION>
                                                         <TITLE>Bicicleteada Shakespeareana</TITLE>
                                                         <TITLE_ES></TITLE_ES>
@@ -335,9 +321,8 @@
                                                         <FILEPIC1>4f303e4516a3c_1</FILEPIC1>
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <UPDATED_TS>2012-02-07 20:01:54</UPDATED_TS>
-                                                    </13>
-                                                    <14>
-                                                        <ID_PLAY>15</ID_PLAY>
+                                                    </PLAY>
+                                                    <PLAY ID="15">
                                                         <ID_SECTION>NULL</ID_SECTION>
                                                         <TITLE>Shakespeare apasionado</TITLE>
                                                         <TITLE_ES>Shakespeare apasionado</TITLE_ES>
@@ -356,9 +341,8 @@
                                                         <FILEPIC1>4f303fbf8873b_1</FILEPIC1>
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <UPDATED_TS>2012-02-07 16:07:41</UPDATED_TS>
-                                                    </14>
-                                                    <15>
-                                                        <ID_PLAY>16</ID_PLAY>
+                                                    </PLAY>
+                                                    <PLAY ID="16">
                                                         <ID_SECTION>NULL</ID_SECTION>
                                                         <TITLE>Recreacionismo Medieval</TITLE>
                                                         <TITLE_ES></TITLE_ES>
@@ -379,8 +363,5 @@
                                                         <FILEPIC1>4f31601974ce6_1</FILEPIC1>
                                                         <PUBLISHED>1</PUBLISHED>
                                                         <UPDATED_TS>2012-02-11 13:35:28</UPDATED_TS>
-                                                    </15>
-                                                    <16>
-                                                        <ID_PLAY></ID_PLAY>
-                                                    </16>
+                                                    </PLAY>
                                                 </root>
