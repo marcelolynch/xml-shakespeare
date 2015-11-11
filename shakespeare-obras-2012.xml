@@ -297,7 +297,7 @@
                                                             </p>
                                                             <p>
                                                                 Nota: La bicicleteada requiere inscripción online previa. Para completar el formulario hacer 
-                                                                <a href=\"http://www.shakespeareba.gob.ar/home12/web/index.php/es/forms/bici_form.html\">click aquí.</a>
+                                                                <a href='"http://www.shakespeareba.gob.ar/home12/web/index.php/es/forms/bici_form.html"'>click aquí.</a>
                                                             </p>
                                                             <p>Cada participante deberá llevar su propia bicicleta y se recomienda usar casco por cuestiones de seguridad.</p>
                                                         </SYNOPSIS_ES>
@@ -308,7 +308,7 @@
                                                             </p>
                                                             <p>
                                                                 Please note: The bike ride requires advance online registration. 
-                                                                <a href=\"http://www.shakespeareba.gob.ar/home12/web/index.php/en/forms/bici_form.html\">Click here.</a>
+                                                                <a href='"http://www.shakespeareba.gob.ar/home12/web/index.php/en/forms/bici_form.html"'>Click here.</a>
                                                             </p>
                                                             <p>Riders have to bring their own bike and should wear a helmet for safety.</p>
                                                         </SYNOPSIS_EN>
