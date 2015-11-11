@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <0>
+        <ID_PLACE>1</ID_PLACE>
+        <TITLE>Centro Cultural Recoleta</TITLE>
+        <TICKETS_INFO_EN>A partir de las 21 h, el ingreso al Centro Cultural Recoleta será solamente por Av. Pueyrredón esq. Azcuénaga.</TICKETS_INFO_EN>
+        <TICKETS_INFO_ES>A partir de las 21 h, el ingreso al Centro Cultural Recoleta será solamente por Av. Pueyrredón esq. Azcuénaga.</TICKETS_INFO_ES>
+        <ADDRESS>Junín 1930</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>13</ID_COUNTRY>
+        <ID_QUARTER>0</ID_QUARTER>
+        <PHONE>4803 1040</PHONE>
+        <BUS>10, 17, 21, 37, 59, 60, 61, 62, 67, 92, 93, 101, 102, 110, 124.</BUS>
+        <SUBWAY></SUBWAY>
+        <ROOMS>SUM,Auditorio El Aleph</ROOMS>
+        <IS_NATIONAL>1</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328547897.8972_1</FILEPIC1>
+        <FILEMAP1>1328554905.498_1</FILEMAP1>
+        <WEIGHT>4</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2010-09-22 15:16:18</CREATED_TS>
+        <UPDATED_TS>2012-02-06 19:01:45</UPDATED_TS>
+    </0>
+    <1>
+        <ID_PLACE>12</ID_PLACE>
+        <TITLE>Anfiteatro del Parque Centenario</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Av. Ángel Gallardo y Leopoldo Marechal, entrada por Lillo.</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>13</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>15- 36- 42- 55- 65- 76- 92- 99- 105- 112- 124- 142</BUS>
+        <SUBWAY>Línea B – Estación: Ángel Gallardo</SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328548000.0197_1</FILEPIC1>
+        <FILEMAP1>1328554859.2895_1</FILEMAP1>
+        <WEIGHT>0</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 17:06:40</CREATED_TS>
+        <UPDATED_TS>2012-02-06 19:00:59</UPDATED_TS>
+    </1>
+    <2>
+        <ID_PLACE>13</ID_PLACE>
+        <TITLE>Buenos Aires Polo Circo</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Combate de los Pozos 1700, esq. Av. Garay</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>13</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>6- 9- 25- 28- 32- 50- 65- 75- 101- 133- 134- 165</BUS>
+        <SUBWAY></SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328547275.7363_1</FILEPIC1>
+        <FILEMAP1>1328554863.2244_1</FILEMAP1>
+        <WEIGHT>2</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 16:54:35</CREATED_TS>
+        <UPDATED_TS>2012-02-06 19:01:03</UPDATED_TS>
+    </2>
+    <3>
+        <ID_PLACE>14</ID_PLACE>
+        <TITLE>Museo de Arte Hispanoamericano Isaac Fernández Blanco</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Suipacha 1422</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>13</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>10, 17, 45, 56, 59, 67, 70, 86, 91, 100, 105.</BUS>
+        <SUBWAY>Línea C – Estación: Retiro o San Martín.</SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328548131.6561_1</FILEPIC1>
+        <FILEMAP1>1328554938.0124_1</FILEMAP1>
+        <WEIGHT>6</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 17:08:51</CREATED_TS>
+        <UPDATED_TS>2012-02-06 19:02:18</UPDATED_TS>
+    </3>
+    <4>
+        <ID_PLACE>15</ID_PLACE>
+        <TITLE>Dirección General de Museos (Ex Munich).</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Av. de los Italianos 851</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>0</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>2 - 4</BUS>
+        <SUBWAY></SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328548216.8374_1</FILEPIC1>
+        <FILEMAP1>1328554950.1902_1</FILEMAP1>
+        <WEIGHT>8</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 17:10:16</CREATED_TS>
+        <UPDATED_TS>2012-02-09 16:03:21</UPDATED_TS>
+    </4>
+    <5>
+        <ID_PLACE>16</ID_PLACE>
+        <TITLE>IMPA. La Fábrica Centro Cultural</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Querandíes 4290, e/Pringles y Rawson</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>13</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>2, 5, 15, 26, 65, 85, 86, 88, 103, 104, 105, 112, 132, 146</BUS>
+        <SUBWAY>Línea A - Estación: Castro Barros</SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328549054.0162_1</FILEPIC1>
+        <FILEMAP1>1328554970.6589_1</FILEMAP1>
+        <WEIGHT>10</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 17:24:14</CREATED_TS>
+        <UPDATED_TS>2012-02-06 19:02:50</UPDATED_TS>
+    </5>
+    <6>
+        <ID_PLACE>17</ID_PLACE>
+        <TITLE>Belisario Club de Cultura</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Av. Corrientes 1624</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>0</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>23, 24, 26, 29, 37, 39, 50, 60, 67, 75, 98, 99, 102, 105, 109, 115, 124, 140, 146, 150, 180</BUS>
+        <SUBWAY>CALLAO (Línea B), TRIBUNALES (Línea D), URUGUAY (Línea B)</SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328549074.2864_1</FILEPIC1>
+        <FILEMAP1>1328554998.0401_1</FILEMAP1>
+        <WEIGHT>12</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 17:24:34</CREATED_TS>
+        <UPDATED_TS>2012-02-09 16:03:46</UPDATED_TS>
+    </6>
+    <7>
+        <ID_PLACE>18</ID_PLACE>
+        <TITLE>Café Rivas</TITLE>
+        <TICKETS_INFO_EN></TICKETS_INFO_EN>
+        <TICKETS_INFO_ES></TICKETS_INFO_ES>
+        <ADDRESS>Estados Unidos 302, esq. Balcarce</ADDRESS>
+        <CITY>Buenos Aires</CITY>
+        <ID_COUNTRY>13</ID_COUNTRY>
+        <ID_QUARTER>NULL</ID_QUARTER>
+        <PHONE></PHONE>
+        <BUS>9, 10, 20, 22, 24, 28, 29, 45, 74, 86, 126, 195</BUS>
+        <SUBWAY></SUBWAY>
+        <ROOMS></ROOMS>
+        <IS_NATIONAL>NULL</IS_NATIONAL>
+        <IS_HIDDEN>0</IS_HIDDEN>
+        <FILEPIC1>1328549668.4988_1</FILEPIC1>
+        <FILEMAP1>1328555020.2583_1</FILEMAP1>
+        <WEIGHT>14</WEIGHT>
+        <PUBLISHED>1</PUBLISHED>
+        <CREATED_TS>2012-02-06 17:34:28</CREATED_TS>
+        <UPDATED_TS>2012-02-09 16:03:00</UPDATED_TS>
+    </7>
+</root>
