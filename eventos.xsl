@@ -9,7 +9,23 @@
         <head>
           <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
           <title><xsl:value-of select="$titulo" /></title>
-        </head>
+
+	  <style>
+	  body {
+		background-color: linen;
+	 	font-size:80%;
+		}
+	 h1 {
+	   	 font-family: "Helvetica", Georgia, Serif;
+		} 
+	td {
+	    	font-size: 80%;
+		font-family: "BankFuturistic";
+	}
+</style>
+
+		</head>
+
         <body>
           <h1><xsl:value-of select="$titulo" /></h1>
           <h2>Eventos del dia: <xsl:value-of select="@fecha" /></h2>

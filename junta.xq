@@ -9,11 +9,10 @@ declare variable $date as xs:date external;
 	    <titulo>{data($obra/TITLE//text())}</titulo>
 	    <descripcion>{data($obra/SYNOPSIS_ES)}</descripcion>
 	    <lugar>
-		<title>{$sede/TITLE/text()}</title>
-		<address>{$sede/ADDRESS/text()}</address>
+		{data($sede/TITLE)} - {data($sede/ADDRESS)}
 	    </lugar>
-	    <hora>{$event/TIME/text()}</hora>
-	    <artista>{$artista/NAME/text()}</artista>
-	    <bio>{$artista/BIO_ES/text()}</bio>
+	    <hora>{data($event/TIME)}</hora>
+	    <artista>{data($artista/NAME)}</artista>
+	    <bio>{data($artista/BIO_ES)}</bio>
 	</fila> 
 } </tabla>

@@ -1,0 +1,5 @@
+>Cambiamos los XML generados para poner <PLAY ID="17"> en lugar de <16><PLAY_ID>17</PLAY_ID> (Manual)
+>Hay algunos eventos con un play con id 0. No se muestran porque no corresponde a un ID de play valido
+>Si algo queda vacio se muestra un (sin datos)
+
+>Ejemplo de uso >$./trabajo.sh 2012-02-12
