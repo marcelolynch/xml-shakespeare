@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <0>
-        <ID_PLACE>1</ID_PLACE>
+    <PLACE ID="1">
         <TITLE>Centro Cultural Recoleta</TITLE>
         <TICKETS_INFO_EN>A partir de las 21 h, el ingreso al Centro Cultural Recoleta será solamente por Av. Pueyrredón esq. Azcuénaga.</TICKETS_INFO_EN>
         <TICKETS_INFO_ES>A partir de las 21 h, el ingreso al Centro Cultural Recoleta será solamente por Av. Pueyrredón esq. Azcuénaga.</TICKETS_INFO_ES>
@@ -21,9 +20,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2010-09-22 15:16:18</CREATED_TS>
         <UPDATED_TS>2012-02-06 19:01:45</UPDATED_TS>
-    </0>
-    <1>
-        <ID_PLACE>12</ID_PLACE>
+    </PLACE>
+
+    <PLACE ID="12">
         <TITLE>Anfiteatro del Parque Centenario</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -43,9 +42,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 17:06:40</CREATED_TS>
         <UPDATED_TS>2012-02-06 19:00:59</UPDATED_TS>
-    </1>
-    <2>
-        <ID_PLACE>13</ID_PLACE>
+    </PLACE>
+
+    <PLACE ID="13">
         <TITLE>Buenos Aires Polo Circo</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -65,9 +64,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 16:54:35</CREATED_TS>
         <UPDATED_TS>2012-02-06 19:01:03</UPDATED_TS>
-    </2>
-    <3>
-        <ID_PLACE>14</ID_PLACE>
+    </PLACE>
+
+    <PLACE ID="14">
         <TITLE>Museo de Arte Hispanoamericano Isaac Fernández Blanco</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -87,9 +86,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 17:08:51</CREATED_TS>
         <UPDATED_TS>2012-02-06 19:02:18</UPDATED_TS>
-    </3>
-    <4>
-        <ID_PLACE>15</ID_PLACE>
+    </PLACE>
+
+    <PLACE ID="15">
         <TITLE>Dirección General de Museos (Ex Munich).</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -109,9 +108,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 17:10:16</CREATED_TS>
         <UPDATED_TS>2012-02-09 16:03:21</UPDATED_TS>
-    </4>
-    <5>
-        <ID_PLACE>16</ID_PLACE>
+    </PLACE>
+    
+		<PLACE ID="16">
         <TITLE>IMPA. La Fábrica Centro Cultural</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -131,9 +130,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 17:24:14</CREATED_TS>
         <UPDATED_TS>2012-02-06 19:02:50</UPDATED_TS>
-    </5>
-    <6>
-        <ID_PLACE>17</ID_PLACE>
+    </PLACE>
+
+    <PLACE ID="17">
         <TITLE>Belisario Club de Cultura</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -153,9 +152,9 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 17:24:34</CREATED_TS>
         <UPDATED_TS>2012-02-09 16:03:46</UPDATED_TS>
-    </6>
-    <7>
-        <ID_PLACE>18</ID_PLACE>
+    </PLACE>
+
+    <PLACE ID="18">
         <TITLE>Café Rivas</TITLE>
         <TICKETS_INFO_EN></TICKETS_INFO_EN>
         <TICKETS_INFO_ES></TICKETS_INFO_ES>
@@ -175,5 +174,5 @@
         <PUBLISHED>1</PUBLISHED>
         <CREATED_TS>2012-02-06 17:34:28</CREATED_TS>
         <UPDATED_TS>2012-02-09 16:03:00</UPDATED_TS>
-    </7>
+    </PLACE>
 </root>
